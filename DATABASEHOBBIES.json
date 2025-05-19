@@ -1,0 +1,136 @@
+{
+    "hobbies": [
+        [
+         "le voyage", "les voyages", "les voyages","les voyages","les voyages","les voyages","les voyages", "j'aime les voyages", "j'adore les voyages",
+         "j'aime voyager", "j'aime voyager","j'aime voyager","j'aime voyager","j'aime voyager","j'aime voyager", "j'adore voyager", "j'aime partir en voyage", "partir en voyage",
+         "voyager", "j'adore partir en voyage", "le tourisme", "j'aime faire du tourisme",
+         "j'adore faire du tourisme", "visiter de nouveaux endroits", "j'aime visiter de nouveaux endroits",
+         "j'adore visiter de nouveaux endroits", "visiter de nouveaux pays"," j'adore visiter de nouveaux pays",
+         "j'aime visiter de nouveaux pays", "partir en vacances", "j'aime partir en vacances", 
+         "j'adore partir en vacances", "je pars en vacances à chaque fois que je peux", "je voyage souvent",
+         "je voyage autant que possible", "découvrir de nouvelles cultures", 
+         "j'aime découvrir de nouvelles cultures", "j'adore découvrir de nouvelles cultures", "le tourisme", 
+         "les vacances", "je pars en voyage chaque année", "j'aime explorer le monde", "j'adore explorer le monde",
+         "j'aime les city trips", "les city trips", "j'aime les voyages en famille", "les voyages en famille", 
+         "les voyages en amoureux", "les voyages à deux", "les voyages entre amis"
+        ],
+
+        [
+         "la cuisine", "faire la cuisine", "la cuisine", "la cuisine", "cuisiner", "j'aime cuisiner", "j'aime faire la cuisine", 
+         "la cuisine", "la cuisine", "cuisiner pour des amis", "faire la cuisine", "découvrir de nouvelles recettes de cuisine", "j'aime découvrir de nouvelles recettes", 
+         "faire la cuisine", "j'aime concocter des petits plats", "j'aime préparer un bon plat", "je suis passionnée de cuisine", "la cuisine est ma passion",
+         "j'aime passer du temps en cuisine", "j'aime cuisiner de bons plats", "je préfère commander ma nourriture que la cuisiner",
+         "je suis la championne de la livraison", "j'aime cuisiner des plats au four", "j'aime la cuisine étrangère", "j'aime essayer de nouveaux plats"
+        ],
+
+        [
+         "la musique", "la musique", "la musique", "la musique", "j'aime écouter de la musique", "assister à un concert", "chanter",
+         "j'aime écouter de la musique", "j'aime écouter de la musique", "j'aime aller à des concerts", "chanter faux",
+         "j'aime écouter de la musique", " j'adore écouter de la musique", "j'aime voir des concerts de musique", "chanter comme une casserole sous la douche",
+         "j'écoute beaucoup de musique", "j'aime la musique", "j'adore la musique", "j'aime le jazz", "chanter sous la douche",
+         "je suis passionnée de musique", "j'aime tous les genres de musique", "j'aime jouer de la musique",
+         "j'adore avoir de la musique dans les oreilles", "découvrir de nouvelles chansons", "écouter la radio",
+         "je suis passionnée par la musique", "je suis amoureuse de la musique", "je ne peux pas vivre sans musique", 
+         "j'aime découvrir de nouvelles chansons", "j'aime m'exprimer via la musique", "j'aime la musique qui donne envie de bouger",
+         "j'aime écouter de la musique pour me détendre", "la musique fait partie de ma vie", "j'aime écouter la radio"
+        ],
+
+        [
+         "j'aime le cinéma", "j'aime le cinéma","j'aime le cinéma","j'aime le cinéma","j'aime le cinéma","j'aime le cinéma","j'aime le cinéma","le cinéma",
+         "le cinéma","le cinéma","le cinéma","le cinéma","le cinéma","le cinéma", "j'aime regarder des films", "j'aime aller au cinéma", "j'aime aller au ciné",
+         "j'ai une passion pour le cinéma", "j'aime découvrir de nouveaux films", "j'aime aller voir de nouveaux films", "j'aime les films romantiques",
+         "j'aime les films romantiques et les films d'action", "j'aime les films d'action", "j'aime les comédies musicales", "j'adore le cinéma", "j'adore découvrir des films",
+         "j'aime les soirées cinéma en amoureux", "j'aime aller au cinéma à deux", "j'aime les soirées ciné à la maison", "j'aime les films d'action et de suspens",
+         "j'aime les films comique"," j'aime les comédies", "j'aime les films dramatiques", "j'aime les films d'horreur", "j'aime les films d'animation",
+         "j'aime passer la soirée devant des films", "regarder des films en streaming"
+        ],
+
+        [
+         "j'aime les séries", "j'aime les séries","j'aime les séries","j'aime les séries","j'aime les séries","j'aime les séries",
+         "les séries télé", "les séries télé","les séries télé","les séries télé","les séries télé","les séries télé",
+         "j'aime regarder des séries", "j'aime regarder des séries", "j'aime découvrir de nouvelles séries", "j'aime regarder des séries à la télé",
+         "regarder des séries en streaming", "les séries", "les séries", "les séries", "les séries historiques", "les séries à suspens", 
+         "les séries romantiques", "les séries comiques", "les séries dramatiques", "trainer devant une série", "trainer devant une bonne série",
+         "regarder une série à deux", "les séries policières", "les séries médicales", "les séries animées", "les animés", "j'aime passer mes soirées devant une série"
+        ],
+
+        [
+         "le sport", "le sport","le sport","le sport","le sport","le sport","le sport","le sport","le sport", "faire du sport","faire du sport",
+         "faire du sport","faire du sport","faire du sport","faire du sport","faire du sport","faire du sport","faire du sport","faire du sport",
+         "j'aime faire du sport", "j'adore faire du sport", "j'aime la marche", "la marche", "j'aime aller courir", "le jogging",
+         "j'aime aller nager", "j'aime nager", "aller nager", "aller à la piscine", "le yoga", "j'aime le yoga", "je fais du yoga", "j'aime le yopga et les pilates",
+         "j'aime faire du yoga", "j'aime la natation", "la natation", "la natation, la course, le yoga", "faire de la gymnastique", "la gymnastique",
+         "le fitness", "faire du fitness", "j'aime le fitness", "je fais du sport quand je trouve le temps", "je ne suis pas une grande sportive", "je suis de nature sportive",
+         "j'aime la marche nordique", "la marche nordique", "la marche nordique, les randonnées", "j'aime la marche en groupe", "je fais de la marche rapide",
+         "je fais de l'aquagym", "j'aime l'aquagym", "l'aquagym", "j'aime le tennis", "je fais du tennis", "le tennis", "le badminton", "j'aime jouer au badminton",
+         "j'aime aller marcher en forêt", "la marche en nature", "le vélo", "faire du vélo", "j'aime faire du vélo", "j'aime les balades en vélo",
+         "j'aime le sport en salle", "je fais du sport en salle", "le sport en salle", "les sports d'équipe", "l'équitation", "les massages"
+        ],
+
+        [
+         "j'aime regarder la télé", "j'aime regarder la télé","j'aime regarder la télé","j'aime regarder la télé","j'aime regarder la télé","j'aime regarder la télé",
+         "regarder la télé", "regarder la télé","regarder la télé","regarder la télé","regarder la télé","regarder la télé",
+         "regarder la télévision", "j'aime regarder la télévision", "les soirées devant la télé", "regarder des émissions de télé", "regarder des émissions musicales",
+         "la téléréalité", "les émissions policières", "regarder la télé en amoureux", "regarder la télé à deux", "zapper le soir pour me détendre", "zapper à la télé",
+         "suivre des émissions culinaires", "j'adore trainer devant la télé", "trainer devant la télé", "j'aime regarder des documentaires", "les documentaires",
+         "les documentaires historiques", "les documentaires policiers", "les documentaires historiques", "les documentaires sur la nature",
+         "les documentaires animaliers", "les émissions comiques", "les émissions culinaires", "j'aime mettre la télé en fond sonore", "j'aime les émissions culturelles à la télé",
+         "les émissions culturelles", "les émissions culturelles à la télévision", "regarder du sport à la télé"
+        ],
+
+        [
+         "les plantes", "les plantes d'intérieur", "la nature", "la nature","la nature","la nature","la nature","la nature",
+         "j'aime la nature", "j'aime la nature", "j'aime la nature", "la nature me ressource", "j'aime les balades dans la nature", "j'aime me balader dans la nature",
+         "j'aime sortir me promener", "j'aime les promenades", "les promenades", "les balades", "j'aime m'occuper des plantes d'intérieur", "j'aime les fleurs",
+         "les fleurs", "passer du temps dans la nature", "j'aime les balades en forêt", "les balades en forêt", "les balades à deux", "les balades au bord de l'eau",
+         "les promenades au bord de l'eau", "les promenades dans les bois"
+        ],
+
+        [
+         "j'aime passer du temps à l'extérieur", "les activités à l'extérieur", "les activités à l'extérieur","les activités à l'extérieur","les activités à l'extérieur","les activités à l'extérieur",
+         "j'aime les activités extérieure", "j'aime les activités extérieure", "j'aime les activités extérieure", "j'aime sortir de la maison", "j'aime aller à la plage", "aller à la plage", "j'aime faire du camping",
+         "j'aime aller à la mer ou à la campagne", "les sorties à l'extérieur", "les sorties", "les promenades en montagne", "se promener sur la plage", "flâner en ville", "flâner à la campagne",
+         "aller au zoo", "aller au cirque", "aller dans un parc d'attractions", "les parcs d'attractions", "les fêtes folkloriques", "faire un pique-nique", "les pique-nique", "j'aime les pique-nique",
+         "j'aime aller au parc", "visiter des lieux inhabituels", "les balades en voiture","les marchés", "aller au marché", "les brocantes", "aller à des brocantes", "jouer au minigolf",
+         "aller boire un café", "boire du thé"
+        ],
+
+        [
+         "la photo", "la photo","la photo","la photo","la photo","la photo", "prendre des photos", "prendre des photos","prendre des photos","prendre des photos","prendre des photos", "j'aime prendre des photos",
+         "la photographie", "j'aime la photographie", "j'adore la photo", "j'adore la photographie", "visiter une galerie d'art", "aller au musée", "les musées", "l'art", "la mode", "je m'intéresse à la mode",
+         "j'aime la mode"
+        ],
+
+        [
+         "la pâtisserie", "la pâtisserie","la pâtisserie","la pâtisserie","j'aime faire des pâtisseries", "j'aime faire des pâtisseries","j'aime faire des pâtisseries","j'aime faire des pâtisseries",
+         "j'aime faire de la pâtisserie", "j'aime faire de la pâtisserie","j'aime faire de la pâtisserie","j'aime faire de la pâtisserie", "j'aime faire des gâteaux", "cuisiner des gâteaux",
+         "les pâtisseries", "j'adore réaliser des pâtisseries", "essayer de nouvelles recettes de pâtisserie", "pâtisser", "faire des pâtisseries au chocolat"
+        ],
+
+        [
+         "lire", "lire","lire","lire","lire","lire", "j'aime lire", "j'aime lire","j'aime lire","j'aime lire","j'aime lire", "j'adore lire", "j'aime lire des bouquins", "lire des bouquins",
+         "lire des magazines", "j'aime lire des magazines", "lire des magazines et des livres", "lire des livres de développement personnel", "les romans d'amour", "les romans", "les romans policiers",
+         "j'aime lire des romans d'amour", "j'aime lire des romans policiers", "j'aime les romans à suspens", "les romans à suspens", "les livres de développement personnel",
+         "les romans historiques", "je lis énormément", "je lis beaucoup", "je lis chaque fois que je peux", "j'aime écrire", "écrire", "lire et écrire", "la poésie", "me poser pour lire", "j'aime me plonger dans un roman passionnant"
+        ],
+
+        [
+         "J'aime dessiner", "dessiner", "le dessin", "j'aime le dessin", "j'aime les loisirs créatifs", "les loisirs créatifs", "le scrapbooking", "faire des collages", "j'aime trainer sur le net",
+         "trainer sur le net", "j'aime aller sur le net", "aller sur le net", "regarder des vidéos en streaming", "regarder des vidéos comiques", "les vidéos comiques", "j'aime surfer sur le web", "surfer sur internet",
+         "les spectacles d'humour", "les spectacles", "le théâtre", "j'aime le théâtre", "j'aime aller voir une pièce de théâtre", "la couture", "j'aime la couture", "j'aime coudre", "j'aime la broderie",
+         "la broderie", "le tricot", "j'aime le tricot", "faire du tricot", "faire de la broderie", "faire du crochet", "confectionner des bijoux", "la sculpture", "la sculpture sur glaise",
+         "la poterie", "faire de la poterie", "la décoration d'intérieur", "décorer", "la décoration", "faire des origamis", "faire des blagues aux gens", "raconter des blagues", 
+         "les blagues nulles", "l'humour noir", "la méditation", "méditer", "faire de la méditation", "la méditation pleine conscience", "la calligraphie", "faire de la calligraphie",
+         "faire de la plongée", "la plongée", "j'aime observer les oiseaux", "observer les oiseaux", "prendre soin de moi", "prendre soin de mon corps", "j'aime prendre soin de moi",
+         "le bénévolat", "faire du bénévolat", "l'astronomie", "la science-fiction", "collectionner des choses", "j'aime collectionner des choses", "regarder des DVD", "écouter des disques vynile", 
+         "fabriquer des bougies", "la fabrication de bougies", "j'aime fabriquer des bougies", "j'aime jouer à des jeux de société", "les jeux de société", "jouer à des jeux de société",
+         "jouer à des jeux-vidéo", "les jeux-vidéo", "apprendre de nouvelles choses", "la danse", "j'aime sortir danser", "j'aime passer du temps avec mes amis", "j'aime passer du temps en famille",
+         "passer du temps en famille", "passer du temps entre amis", "les soirées entre amis", "les soirées en famille", "aller marcher en ville", "faire du shopping", "faire du shopping","faire du shopping","faire du shopping","faire du shopping",
+         "faire les boutiques", "faire les magasins", "faire chauffer ma carte de crédit", "les sorties improvisées", "participer à des ateliers créatifs", "les ateliers créatifs",
+         "organiser des soirés à thème", "les soirées à thème", "la mosaïque", "faire de la mosaïque", "trainer dans une librairie", "jouer au poker", "jouer aux cartes", "aller dans un spa", "le spa",
+         "aller au sauna", "les spas et les saunas", "faire du lèche-vitrine", "jouer au billard", "j'aime jouer au billard", "j'aime les mots-croisés", "les mots croisés", "peindre", "j'aime peindre",
+         "trainer dans une librairie", "l'opéra", "discuter de tout de rien", "discuter", "j'aime papoter", "j'aime discuter", "j'aime me relaxer", "faire la sieste", "faire des cadeaux",
+         "j'aime faire des cadeaux"
+        ]
+    ]
+}
